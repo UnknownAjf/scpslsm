@@ -1,0 +1,1 @@
+SteamCMD +login anonymous +force_install_dir ../server +app_update 786920 validate -beta beta +quit

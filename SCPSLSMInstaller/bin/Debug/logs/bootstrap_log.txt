@@ -1,0 +1,31 @@
+
+
+[2018-11-16 16:40:54] Startup - updater built Jul 24 2018 11:28:53
+[2018-11-16 16:40:54] Checking for update on startup
+[2018-11-16 16:40:54] Checking for available update...
+[2018-11-16 16:40:54] Package file steamcmd_public_all.zip.vz.8df6e83ae92e7b5f593a46473360582975f9eb1e_26194 missing or incorrect size
+[2018-11-16 16:40:54] Package file steamcmd_bins_win32.zip.vz.96e4b6b56042ce6b9bfc3b886ea3b87d264cd53b_4634848 missing or incorrect size
+[2018-11-16 16:40:54] Package file steamcmd_steamservice_win32.zip.vz.a5960a38934a35f29e85ce0936102eb264b26440_1048478 missing or incorrect size
+[2018-11-16 16:40:54] Package file steamcmd_steamerrorreporter_win32.zip.8629ffac15ce2348c6e555c272c4509e0c09ea3a missing or incorrect size
+[2018-11-16 16:40:54] Package file steamcmd_win32.zip.vz.72e6ae2805b1d6d2a27e97f1dd6336077fe57193_1071735 missing or incorrect size
+[2018-11-16 16:40:54] Error: Saving package (steamcmd_public_all) failed.
+[2018-11-16 16:40:54] Verifying installation...
+[2018-11-16 16:40:54] Performing checksum verification of executable files
+[2018-11-16 16:40:54] Unable to read and verify install manifest C:\Users\iamau\Desktop\SCP SERVER MAKER\Project\SCPSL Server Maker\SCPSLSMInstaller\bin\Debug\package\steam_cmd_win32.installed
+[2018-11-16 16:40:54] Verification complete
+[2018-11-16 16:40:54] Downloading Update...
+[2018-11-16 16:40:54] Checking for available update...
+[2018-11-16 16:40:56] Package file steamcmd_bins_win32.zip.vz.96e4b6b56042ce6b9bfc3b886ea3b87d264cd53b_4634848 missing or incorrect size
+[2018-11-16 16:40:56] Package file steamcmd_steamerrorreporter_win32.zip.8629ffac15ce2348c6e555c272c4509e0c09ea3a missing or incorrect size
+[2018-11-16 16:40:56] Package file steamcmd_win32.zip.vz.72e6ae2805b1d6d2a27e97f1dd6336077fe57193_1071735 missing or incorrect size
+[2018-11-16 16:40:56] Downloading update (0 of 5,747 KB)...
+[2018-11-16 16:40:56] Downloading update (549 of 5,747 KB)...
+[2018-11-16 16:40:57] Downloading update (1,454 of 5,747 KB)...
+
+
+[2018-11-17 06:55:05] Startup - updater built Jul 24 2018 11:28:53
+[2018-11-17 06:55:05] Checking for update on startup
+[2018-11-17 06:55:05] Checking for available update...
+[2018-11-17 06:55:06] Package file steamcmd_bins_win32.zip.vz.96e4b6b56042ce6b9bfc3b886ea3b87d264cd53b_4634848 missing or incorrect size
+[2018-11-17 06:55:06] Package file steamcmd_win32.zip.vz.72e6ae2805b1d6d2a27e97f1dd6336077fe57193_1071735 missing or incorrect size
+[2018-11-17 06:55:06] Downloading update (0 of 5,572 KB)...

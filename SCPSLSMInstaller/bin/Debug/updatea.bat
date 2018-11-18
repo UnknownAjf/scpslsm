@@ -1,0 +1,1 @@
+steamcmd +login anonymous +app_license_request 700330 +force_install_dir ../server +app_update 700330

@@ -1,0 +1,12 @@
+C:\Users\iamau\Desktop\SCP SERVER MAKER\Project\SCPSL Server Maker\SCPSL Server Maker\bin\Debug\SCPSL Server Maker.exe.config
+C:\Users\iamau\Desktop\SCP SERVER MAKER\Project\SCPSL Server Maker\SCPSL Server Maker\bin\Debug\SCPSL Server Maker.exe
+C:\Users\iamau\Desktop\SCP SERVER MAKER\Project\SCPSL Server Maker\SCPSL Server Maker\bin\Debug\SCPSL Server Maker.pdb
+C:\Users\iamau\Desktop\SCP SERVER MAKER\Project\SCPSL Server Maker\SCPSL Server Maker\bin\Debug\FlatUI.pdb
+C:\Users\iamau\Desktop\SCP SERVER MAKER\Project\SCPSL Server Maker\SCPSL Server Maker\obj\Debug\SCPSL Server Maker.csprojAssemblyReference.cache
+C:\Users\iamau\Desktop\SCP SERVER MAKER\Project\SCPSL Server Maker\SCPSL Server Maker\obj\Debug\SCPSL_Server_Maker.Properties.Resources.resources
+C:\Users\iamau\Desktop\SCP SERVER MAKER\Project\SCPSL Server Maker\SCPSL Server Maker\obj\Debug\SCPSL Server Maker.csproj.GenerateResource.cache
+C:\Users\iamau\Desktop\SCP SERVER MAKER\Project\SCPSL Server Maker\SCPSL Server Maker\obj\Debug\SCPSL Server Maker.csproj.CoreCompileInputs.cache
+C:\Users\iamau\Desktop\SCP SERVER MAKER\Project\SCPSL Server Maker\SCPSL Server Maker\obj\Debug\SCPSL Server Maker.csproj.CopyComplete
+C:\Users\iamau\Desktop\SCP SERVER MAKER\Project\SCPSL Server Maker\SCPSL Server Maker\obj\Debug\SCPSL Server Maker.exe
+C:\Users\iamau\Desktop\SCP SERVER MAKER\Project\SCPSL Server Maker\SCPSL Server Maker\obj\Debug\SCPSL Server Maker.pdb
+C:\Users\iamau\Desktop\SCP SERVER MAKER\Project\SCPSL Server Maker\SCPSL Server Maker\obj\Debug\SCPSL_Server_Maker.SCPSLServerMaker.resources

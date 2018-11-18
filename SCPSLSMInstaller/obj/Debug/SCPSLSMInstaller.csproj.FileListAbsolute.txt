@@ -1,0 +1,12 @@
+C:\Users\iamau\Desktop\SCP SERVER MAKER\Project\SCPSL Server Maker\SCPSLSMInstaller\bin\Debug\SCPSLSMInstaller.exe.config
+C:\Users\iamau\Desktop\SCP SERVER MAKER\Project\SCPSL Server Maker\SCPSLSMInstaller\bin\Debug\SCPSLSMInstaller.exe
+C:\Users\iamau\Desktop\SCP SERVER MAKER\Project\SCPSL Server Maker\SCPSLSMInstaller\bin\Debug\SCPSLSMInstaller.pdb
+C:\Users\iamau\Desktop\SCP SERVER MAKER\Project\SCPSL Server Maker\SCPSLSMInstaller\bin\Debug\FlatUI.pdb
+C:\Users\iamau\Desktop\SCP SERVER MAKER\Project\SCPSL Server Maker\SCPSLSMInstaller\obj\Debug\SCPSLSMInstaller.csprojAssemblyReference.cache
+C:\Users\iamau\Desktop\SCP SERVER MAKER\Project\SCPSL Server Maker\SCPSLSMInstaller\obj\Debug\SCPSLSMInstaller.Properties.Resources.resources
+C:\Users\iamau\Desktop\SCP SERVER MAKER\Project\SCPSL Server Maker\SCPSLSMInstaller\obj\Debug\SCPSLSMInstaller.csproj.GenerateResource.cache
+C:\Users\iamau\Desktop\SCP SERVER MAKER\Project\SCPSL Server Maker\SCPSLSMInstaller\obj\Debug\SCPSLSMInstaller.csproj.CoreCompileInputs.cache
+C:\Users\iamau\Desktop\SCP SERVER MAKER\Project\SCPSL Server Maker\SCPSLSMInstaller\obj\Debug\SCPSLSMInstaller.csproj.CopyComplete
+C:\Users\iamau\Desktop\SCP SERVER MAKER\Project\SCPSL Server Maker\SCPSLSMInstaller\obj\Debug\SCPSLSMInstaller.exe
+C:\Users\iamau\Desktop\SCP SERVER MAKER\Project\SCPSL Server Maker\SCPSLSMInstaller\obj\Debug\SCPSLSMInstaller.pdb
+C:\Users\iamau\Desktop\SCP SERVER MAKER\Project\SCPSL Server Maker\SCPSLSMInstaller\obj\Debug\SCPSLSMInstaller.Installer.resources
