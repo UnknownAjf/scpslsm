@@ -237,7 +237,7 @@ namespace SCPSL_Server_Maker
 
         private void flatButton8_Click(object sender, EventArgs e)
         {
-            Process.Start(@"C:\SCPSLServer\server\LocalAdmin.exe");
+            Process.Start(@"C:\SCPSLServer\server\StartUp.bat");
         }
 
         private void flatButton3_Click(object sender, EventArgs e)

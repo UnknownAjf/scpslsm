@@ -1,0 +1,4 @@
+[17:44:07] Started new session.
+[17:44:08] Failed - Executable file not found or config issue!
+[17:44:08] Index was outside the bounds of the array.
+[17:44:09] Press any key to close...
