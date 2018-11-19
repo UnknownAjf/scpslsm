@@ -134,7 +134,7 @@ namespace SCPSL_Server_Maker
                 "server_ip: "+IPBox.Text,
                 "max_players: "+MaxPlayers.Text,
                 "port_queue:",
-                            " - "+PortBox,
+                            " - "+PortBox.Text,
                 "minimum_MTF_time_to_spawn: "+MTFSTMIN.Text,
                 "maximum_MTF_time_to_spawn: "+MTFSTMAX.Text,
                 "ci_respawn_percent: "+CIRespawn.Text,

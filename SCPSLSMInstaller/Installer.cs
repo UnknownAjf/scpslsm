@@ -44,7 +44,7 @@ namespace SCPSLSMInstaller
                 }
                 //done
                 var proca = Process.Start(@"C:\SCPSLServer\SteamCMD\update.bat");
-                while (!process.HasExited)
+                while (!proca.HasExited)
                 {
                     //update UI
                 }
