@@ -1,2 +1,3 @@
 # scpslsm
-https://github.com/UnknownAjf/scpslsm/wiki
+NEW ACCOUNT I WILL BE CONTINUING THE PROJECT ON THIS ACCOUNT!
+https://github.com/aussynn
